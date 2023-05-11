@@ -1,7 +1,7 @@
 export default function Home() {
     return (
         <div>
-            <h1>Revertendo commit</h1>
+            <h1>Novo Commit! 👌🏻</h1>
         </div>
     )
 }
